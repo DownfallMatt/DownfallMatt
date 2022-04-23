@@ -1,8 +1,7 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">An aspiring full-stack developer from Canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=downfallmatt&label=Profile%20views&color=0e75b6&style=flat" alt="downfallmatt" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=downfallmatt" alt="downfallmatt" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/downfallmatt" target="blank"><img src="https://img.shields.io/twitter/follow/downfallmatt?logo=twitter&style=for-the-badge" alt="downfallmatt" /></a> </p>
 
